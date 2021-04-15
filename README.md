@@ -9,7 +9,8 @@ Contents (Repositories):
 
   1. showcase-MSCA    
      a. Highlights coding learned through out my Microsoft apprenticeship
-     b. f
+     b. hello
+     c. fff
   2. RaspberryPi_RemoteCamera
      a. Personal project to create a Raspberry Pi camera module that can stream over the internet
   3. Movie_Library
