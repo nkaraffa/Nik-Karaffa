@@ -7,18 +7,20 @@ Welcome to my page.
 
 Contents (Repositories):
 
-  1. showcase-MSCA    
-     a. Highlights coding learned through out my Microsoft apprenticeship
-     b. hello
-     c. fff
+  1. showcase-MSCA
+  - Highlights coding learned through out my Microsoft apprenticeship
+  
   2. RaspberryPi_RemoteCamera
-     a. Personal project to create a Raspberry Pi camera module that can stream over the internet
+  - Personal project to create a Raspberry Pi camera module that can stream over the internet
+     
   3. Movie_Library
-     a. Project to create a Movie Service Application linked to a SQL Database with CRUD functionality
+  - Project to create a Movie Service Application linked to a SQL Database with CRUD functionality
+     
   4. projects-Random_Name_Generator
-     a. Project to showcase coding lessons learned through the implementation of a random name generator.
+  - Project to showcase coding lessons learned through the implementation of a random name generator.
+     
   5. codingPuzzles
-     a.  Regular project to tackle challenging coding puzzles! Try them out too!
+  - Regular project to tackle challenging coding puzzles! Try them out too!
       
 ________
 
