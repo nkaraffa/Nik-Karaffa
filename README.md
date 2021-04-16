@@ -1,11 +1,11 @@
 # NKaraffa
-##Profile Overview
+## Profile Overview
 
 ________
 
-####Welcome to my page.
+#### Welcome to my page.
 
-Contents (Repositories):
+**Contents (Repositories):**
 
   1. showcase-MSCA
       - Highlights coding learned through out my Microsoft apprenticeship
