@@ -1,10 +1,12 @@
-# NKaraffa
-## Profile Overview
-
 ![Alt Text](https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg)
 ________
 
-#### Welcome to my page.
+### Welcome to my page.
+
+I am interested in ...
+
+_________
+### Profile Overview
 
 **Contents (Repositories):**
 
@@ -24,8 +26,6 @@ ________
       - Regular project to tackle challenging coding puzzles! Try them out too!
       
 ________
-
-I am interested in ...
 
 Work in progress...
 
