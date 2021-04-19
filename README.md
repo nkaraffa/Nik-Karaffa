@@ -1,7 +1,7 @@
 # NKaraffa
 ## Profile Overview
 
-Format: ![Alt Text](https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg)
+![Alt Text](https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg)
 ________
 
 #### Welcome to my page.
