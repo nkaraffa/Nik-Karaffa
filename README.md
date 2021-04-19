@@ -1,6 +1,8 @@
 # NKaraffa
 ## Profile Overview
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg)
 ________
 
 #### Welcome to my page.
