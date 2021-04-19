@@ -5,7 +5,7 @@ ________
 ![Alt Text](https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg)
 ________
 
-# About Me
+### About Me
 
 I am Nikolas Karaffa. I am a mathematican pursuing a career in software engineering through the Microsoft Software and Systems Academy (MSSA).
 
@@ -40,7 +40,5 @@ _________
       - Regular project to tackle challenging coding puzzles! Try them out too!
       
 ________
-
-Work in progress...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nkaraffa)
