@@ -1,11 +1,25 @@
+# Welcome to my page!
+
+________
+
 ![Alt Text](https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg)
 ________
 
-### Welcome to my page.
+# About Me
 
-I am interested in ...
+I am Nikolas Karaffa. I am a mathematican pursuing a career in software engineering through the Microsoft Software and Systems Academy (MSSA).
+
+I am interested in solving complex problems and collaborating with teams to accomplish the impossible!
+
+**Interests:**
+- Currently Learning: C#, SQL, HTML, CSS, Javascript, Java, R, Python, Azure
+
+- Machine Learning
+- AI
+- Deep Learning
 
 _________
+
 ### Profile Overview
 
 **Contents (Repositories):**
