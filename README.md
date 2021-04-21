@@ -15,8 +15,8 @@ I am interested in solving complex problems and collaborating with teams to acco
 **Interests:**
 - Currently Learning: C#, SQL, HTML, CSS, Javascript, Java, R, Python, Azure
 
-- Machine Learning
 - AI
+- Machine Learning
 - Deep Learning
 
 _________
