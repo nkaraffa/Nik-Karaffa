@@ -39,6 +39,12 @@ _________
      
   5. codingPuzzles
       - Regular project to tackle challenging coding puzzles! Try them out too!
+
+  6. Intro-to-AI-Machine-Learning-and-Python-basics
+      - Compilation of everything I learned from a Udemy course of AI, ML, & Python
+
+  7. Machine-Learning-Models  (IN PROGRESS)
+      - Machine Learning Models for Various Fields
       
 ________
 
