@@ -44,7 +44,10 @@ _________
       - Compilation of everything I learned from a Udemy course of AI, ML, & Python
 
   7. Machine-Learning-Models  (IN PROGRESS)
-      - Machine Learning Models for Various Fields
+      - Machine Learning Models for Various Fields 
+  
+  8. leetcode
+      - My solutions to leetcode problems.
       
 ________
 
