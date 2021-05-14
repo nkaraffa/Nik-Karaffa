@@ -37,8 +37,8 @@ _________
   4. projects-Random_Name_Generator
       - Project to showcase coding lessons learned through the implementation of a random name generator.
      
-  5. codingPuzzles
-      - Regular project to tackle challenging coding puzzles! Try them out too!
+  5. Azure-Fundamentals
+      - Everything I learned about Microsoft Azure in preparation for the AZ-900 exam
 
   6. Intro-to-AI-Machine-Learning-and-Python-basics
       - Compilation of everything I learned from a Udemy course of AI, ML, & Python
