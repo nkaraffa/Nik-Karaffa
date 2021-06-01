@@ -55,6 +55,9 @@ _________
   10. LeetCode Contests
       - My solutions to biweekly Leetcode contests
 
+  11. VetResources
+      - A veterans resource website I made using the MVC software design pattern
+
       
 ________
 
