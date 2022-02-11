@@ -7,7 +7,9 @@ ________
 
 ### About Me
 
-I am Nikolas Karaffa. I am a mathematican pursuing a career in software engineering through the Microsoft Software and Systems Academy (MSSA).
+I am Nikolas Karaffa. I am a mathematican pursuing a career in high tech as a program manager.
+
+I attended the Microsoft Software and Systems Academy (MSSA) where I built a strong foundation in software engineering & problem solving.
 
 I am interested in solving complex problems and collaborating with teams to accomplish the impossible!
 
@@ -15,6 +17,7 @@ I am interested in solving complex problems and collaborating with teams to acco
 **Interests:**
 - Currently Learning: C#, SQL, HTML, CSS, Javascript, Java, R, Python, Azure
 
+- Computer Networking
 - AI
 - Machine Learning
 - Deep Learning
