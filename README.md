@@ -15,7 +15,7 @@ I am interested in solving complex problems and collaborating with teams to acco
 
 
 **Interests:**
-- Currently Learning: C#, SQL, HTML, CSS, Javascript, Java, R, Python, Azure
+- Currently Practicing: C#, SQL, HTML, CSS, Javascript, Java, R, Python, Azure
 
 - Computer Networking
 - AI
